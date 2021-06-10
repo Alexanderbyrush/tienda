@@ -10,7 +10,7 @@ const routes: Routes = [
   },
 
   {
-    path:'post/:variable',
+    path:'detail/:name/:price/:unit',
     component: DetailComponent
   }
 ];
